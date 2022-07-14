@@ -45,7 +45,7 @@ THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SO
     background-color: #04AA6D;
     color: white;
     
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png">
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png"width="300px">
    
  ## EDUCATION
  
@@ -82,7 +82,7 @@ THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SO
     background-color: #04AA6D;
     color: white;
     
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(2).png" width="300px">
    
   ## CONTACT 
   <nav>
@@ -100,7 +100,7 @@ THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SO
     background-color: #04AA6D;
     color: white;
     
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">  
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(3).png" width="300px">  
     
 ## Deployment
 
