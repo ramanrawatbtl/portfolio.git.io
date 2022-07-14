@@ -1,6 +1,55 @@
 
 <h1 align="center">Hi 👋, I'm RAMAN RAWAT</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
+# PORFOLIO WEBSITE
+<img src="
+
+THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SOMEONE CAN CONTACT ,CAN ALSO GIVE THE VALUABLE FEEDBACK.
+# CONTENT OF WEBSITE
+1.Home
+          
+2.education
+          
+3.projects
+          
+4.contact
+          
+5.feedback
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| white | ![#0a192f](https://via.w3school.com/10/0a192f?text=+) #0a192f |
+| blue | ![#f8f8f8](https://via.w3school.com/10/f8f8f8?text=+) #f8f8f8 |
+| rgba(238, 235, 231, 0.98);
+| background: #883112;
+
+
+## Deployment
+
+FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
+
+
+```bash
+  HOST LINK :https://ramanrawatportfolio.netlify.app
+```
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Screenshots
+
+![App Screenshot]
+https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.pnghttps://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png
+https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(5).png
+https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png
+
+https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(2).png
+
+https://github.com/ramanrawathttps://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(3).pngbtl/portfolio.git.io/blob/main/2022-07-15%20(4).png
+
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPER COURSE FROM NEWTON SCHOOL**
 
