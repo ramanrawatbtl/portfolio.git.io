@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm RAMAN RAWAT</h1>
 
 # PORFOLIO WEBSITE
-<img src="
+
+- 🌱 
+
+- 👨‍💻 website link is [https://github.com/ramanrawatbtl/portfolio.git.io.git](https://github.com/ramanrawatbtl/portfolio.git.io.git)
+<img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png">
 
 THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SOMEONE CAN CONTACT ,CAN ALSO GIVE THE VALUABLE FEEDBACK.
 # CONTENT OF WEBSITE
@@ -25,7 +29,49 @@ THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SO
 | rgba(238, 235, 231, 0.98);
 | background: #883112;
 
-
+## HOME 
+ <nav>
+    
+      <a href="./index.html">
+      <button class="btn success">HOME</button></a>
+  </nav>
+ font-size: 16px;
+ 
+    cursor: pointer;
+    
+  }
+  
+  .success:hover {
+    background-color: #04AA6D;
+    color: white;
+    
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png" width="300px">
+  <hr> 
+ ## education
+ 
+ 
+       <a href="./index.html#education">
+       
+       <button class="btn success">EDUCATION</button></a>
+       
+   
+   .success:hover {
+    background-color: #04AA6D;
+    
+    color: white;
+    
+    <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">
+    
+    <hr> 
+ ## projects
+       <a href="./index.html#projects">
+       <button class="btn success">PROJECTS</button></a>
+   .success:hover {
+    background-color: #04AA6D;
+    color: white;
+    
+    <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(2).png" width="300px">  
+    
 ## Deployment
 
 FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
@@ -33,6 +79,8 @@ FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
 
 ```bash
   HOST LINK :https://ramanrawatportfolio.netlify.app
+  <link rel="icon" type="image/png" href="/v3/static/favicon/favicon-32x32.png" sizes="32x32">
+
 ```
 
 
@@ -51,11 +99,8 @@ https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(2).png
 https://github.com/ramanrawathttps://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(3).pngbtl/portfolio.git.io/blob/main/2022-07-15%20(4).png
 
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPER COURSE FROM NEWTON SCHOOL**
 
-- 👨‍💻 website link is [https://github.com/ramanrawatbtl/portfolio.git.io.git](https://github.com/ramanrawatbtl/portfolio.git.io.git)
-
-- 💬 Ask me about **HTML,CSS,JAVA**
+- 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **ramanrawatbtl@gmail.com**
 
