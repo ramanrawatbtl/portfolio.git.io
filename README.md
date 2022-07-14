@@ -45,32 +45,62 @@ THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SO
     background-color: #04AA6D;
     color: white;
     
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png" width="300px">
-  <hr> 
- ## education
- 
- 
-       <a href="./index.html#education">
-       
-       <button class="btn success">EDUCATION</button></a>
-       
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png">
    
-   .success:hover {
-    background-color: #04AA6D;
+ ## EDUCATION
+ 
+  <nav>
     
+      <a href="./index.html#education">
+      <button class="btn success">HOME</button></a>
+  </nav>
+ font-size: 16px;
+ 
+    cursor: pointer;
+    
+  }
+  
+  .success:hover {
+    background-color: #04AA6D;
     color: white;
     
-    <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">
-    
-    <hr> 
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">
+   
  ## projects
-       <a href="./index.html#projects">
-       <button class="btn success">PROJECTS</button></a>
-   .success:hover {
+       <nav>
+    
+      <a href="./index.html#projects">
+      <button class="btn success">HOME</button></a>
+  </nav>
+ font-size: 16px;
+ 
+    cursor: pointer;
+    
+  }
+  
+  .success:hover {
     background-color: #04AA6D;
     color: white;
     
-    <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(2).png" width="300px">  
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">
+   
+  ## CONTACT 
+  <nav>
+    
+      <a href="./index.html#contact">
+      <button class="btn success">CONTACT</button></a>
+  </nav>
+ font-size: 16px;
+ 
+    cursor: pointer;
+    
+  }
+  
+  .success:hover {
+    background-color: #04AA6D;
+    color: white;
+    
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">  
     
 ## Deployment
 
