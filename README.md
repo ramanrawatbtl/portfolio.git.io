@@ -6,7 +6,7 @@
 - 🌱 
 
 - 👨‍💻 website link is [https://github.com/ramanrawatbtl/portfolio.git.io.git](https://github.com/ramanrawatbtl/portfolio.git.io.git)
-<img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png">
+<img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/home.png">
 
 THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SOMEONE CAN CONTACT ,CAN ALSO GIVE THE VALUABLE FEEDBACK.
 # CONTENT OF WEBSITE
@@ -20,87 +20,25 @@ THIS WEBSITE IS BASICALLY FOR ACHIEVMENTS,PROJECTS,AND EDUCATIONAL BACKGROUND SO
           
 5.feedback
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| white | ![#0a192f](https://via.w3school.com/10/0a192f?text=+) #0a192f |
-| blue | ![#f8f8f8](https://via.w3school.com/10/f8f8f8?text=+) #f8f8f8 |
-| rgba(238, 235, 231, 0.98);
-| background: #883112;
 
 ## HOME 
- <nav>
+
     
-      <a href="./index.html">
-      <button class="btn success">HOME</button></a>
-  </nav>
- font-size: 16px;
- 
-    cursor: pointer;
-    
-  }
-  
-  .success:hover {
-    background-color: #04AA6D;
-    color: white;
-    
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15.png" width="300px">
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/education.png" width="300px">
    
  ## EDUCATION
  
-  <nav>
     
-      <a href="./index.html#education">
-      <button class="btn success">HOME</button></a>
-  </nav>
- font-size: 16px;
- 
-    cursor: pointer;
-    
-  }
-  
-  .success:hover {
-    background-color: #04AA6D;
-    color: white;
-    
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(1).png" width="300px">
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/project.png" width="300px">
    
  ## projects
-       <nav>
+     
     
-      <a href="./index.html#projects">
-      <button class="btn success">HOME</button></a>
-  </nav>
- font-size: 16px;
- 
-    cursor: pointer;
-    
-  }
-  
-  .success:hover {
-    background-color: #04AA6D;
-    color: white;
-    
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(2).png" width="300px">
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/contactme.png" width="300px">
    
   ## CONTACT 
-  <nav>
-    
-      <a href="./index.html#contact">
-      <button class="btn success">CONTACT</button></a>
-  </nav>
- font-size: 16px;
- 
-    cursor: pointer;
-    
-  }
-  
-  .success:hover {
-    background-color: #04AA6D;
-    color: white;
-    
-   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/2022-07-15%20(3).png" width="300px">  
+      
+   <img src="https://github.com/ramanrawatbtl/portfolio.git.io/blob/main/feedback.png" width="300px">  
     
 ## Deployment
 
