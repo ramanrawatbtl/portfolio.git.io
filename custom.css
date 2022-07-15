@@ -1,93 +1,123 @@
 *{
-    margin: 0;
-    padding: 0;
-}
-header{
-  
-  size: 1100px;
-  
-  text-align: center;
-
+  margin: 0px;
+  padding: 0px;
+  font-family:'Segoe UI';
 }
 body{
-    background-image: url(.\bg.jpg);
-    
+    background-image: url(./background.jpg);
     background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: 100% 100%;
-      
-     font-style:"calluna"" roboslab";
-    color: rgba(238, 235, 231, 0.98);
-    
-} .res{
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1d1d1d;
+  position: sticky;
+  top: 0;
+  float: right;
+  width: 100%;
+  z-index: 100;
+}
+
+li {
+  float: right;
+  width:10%;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 120%;
+  
+}
+
+li:hover{
+  background-color: #171616;
+}
+
+.body_ele{
+  margin: 5%;
+  padding: 10px;
+}
+
+pre{
+  background-color: #007cb500;
+  color:rgba(255, 255, 255, 0.641);
+  margin-right: 30px;
+}
+
+.container{ 
+  width: 100%;
+  height:100%;
+  height: 90vh;
+}
+.home h1{
+  padding-top: -5%;
+  font-size: 1000%;
+  color: antiquewhite;
+}
+
+.home pre{
+  padding-top: -10%;
+  font-size: 200%;
+  color: rgb(255, 255, 255);
+}
+
+
+.h1{
+  padding-top: 10%;
+  font-size: 200%;
+  color: antiquewhite;
+}
+
+.button {
+  padding:10px;
+  font-size: 20px;
+  width: 10%;
+  border-radius: 9px;
+  text-align: center;
+  background: #12887a7a;
+  color: white;
+  border: 1px white;
+}
+
+.button:hover{
+  background:#12887a;
+  cursor: pointer;
+  color: #171616;
+}
+
+.resume{
   background: #883112;
   margin-left: 30%;
   width: 15%;
 }
-.res:hover{
+.resume:hover{
   background:#88311271;
   cursor: pointer;
   color: #171616;
 }
-.btn {
-    display:inline-block;
-    width: 180px;
-    height: 50px;
-    border-radius: 5px;
-    background-color: rgba(69, 92, 121, 0.226);
-
-    color: rgb(250, 238, 249);
-    margin:10px;
-    padding: 10px 28px;
-    font-size: 16px;
-    cursor: pointer;
-  }.success:hover {
-    background-color: #04AA6D;
-    color: white;
-  }
-
- div{ 
-  display: inline-block;
-   
-   width: 1100px; ;
-   height: 400px;
-  
-  
-}
-.image{
-   display:inline-block;
-  opacity: 0.9;
-  width: 500px;
-  height:400px;
-  float: right;
-  
-  
-} 
-.image1{
-
-  width:500px;
-  height: fit-content;
-  margin-top: 100px;
-  margin-right: 10px;
-  
+a{
+  text-decoration: none;
+  color: #ffffff;
 }
 
-
- h1{
-
-      text-align: center;
-  
-    font-family: "calluna";font-size: 50px;
-     color: rgb(123, 106, 17);
-}
 .fa {
   padding:20px;
   font-size: 20px;
-  width: 20px;
+  width: 5%;
   border-radius: 9px;
   text-align: center;
   text-decoration:azure;
-  margin:200px 50px 20px 50px;
 
 }.fa:hover {
   opacity: 0.8;
@@ -108,25 +138,23 @@ body{
   background: #3B5998;
   color: rgb(255, 255, 255);
 }
-p{
-  margin-top: 30px;
+
+.feedback{
+  height: 50vh;
 }
-pre{
-  background-color: #007cb500;
-  color:rgba(245, 245, 220, 0.838);
-  margin-right: 30px;
+.container form{
+  margin-left: 10%;
+  margin-top: 5%;
 }
-.boxes{
-  
-  display: block;
-  width:100%;
-  height: 350px;
-  margin-top: 250px;
-  
-  opacity:0.5;
+
+.footer{
+  position: sticky;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: rgba(132, 143, 153, 0.766);
+  text-align: center;
+  font-size: larger;
 }
-#message{
-  margin-top: 10px;
-  background-color: rgba(194, 205, 205, 0.005);
-  color: rgba(255, 255, 255, 0.534);
-}
+
